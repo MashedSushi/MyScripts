@@ -1,0 +1,10 @@
+[package]
+name = "gim-uyeon/untitled"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Replion = "ytrev/replion@2.0.1"
+Janitor = "howmanysmall/janitor@1.18.3"
+TopbarPlus = "1foreverhd/topbarplus@3.4.0"
